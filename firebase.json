@@ -1,0 +1,24 @@
+{
+  "type": "service_account",
+  "project_id": "planeta-preescolar",
+  "private_key_id": "82dbf16e9e94c9f1cb3240b430acd9f7e291b177",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrXmexY7X4J4oQ\n6+0nTIufYZlxj5K0GuS1DgWCjTmXRLsvpdT8EmEnNvtrz7f8+8UEe+a5IUl9ehEc\n4xF6bses2RF6nRKSFwZeUoCmM9Xgs0dsAIxiBrgxu9q5TiNfpO8JkpblZo+3PaPZ\nVo3K+4dw+rKmwDeEjNNeHVbgBNaqeBkuRbb9WSjY9PWQwZXmFXvoSY6+iXuPezk9\nEty15hxct/4ujlxwMDPTSwVtskYRD0ug7ov5CpkUnkzlx76XYB/K5+MT4rsA+FbM\nXEQpXWTzxGEl+v0uys/+GUR4kbTNXemkBW80bwvIZ2mDuQSe+aeLsFCqiSow8A+9\nq5E5SzDHAgMBAAECggEAB0Lrz+dyuX4raoYkuWqT6//9uYMk6z7MfCOI9jw3uYIv\nEFjNipTYywmYY7wchrrAYW1CnIudipSWjwvMHMz+5wMXq4NmWwxgt7R1QRWnNWtD\nVn87c5fnTCwym3GFLDNX8ablf/j1lAUnoTj6ryQzXAUzdr9kWtiAyFcj7EAoPHbi\nhet3YJq3a735P/NWZ6SS+eb8yvMAIL7+AWUsdS5uTaB+aJ4tu4G/+/2jQEtVwoKf\ngUKFreUt1sTjqlkon7LJaZzlBgDVgnA5W9iVBV8othQB88mg9hZr8ZeJRf+6szu1\n132qTGJSZCJh8oKjXYE+5eXcybbkoHQ/laFZ3UbraQKBgQDhYNOqMOlDnXeF2bBh\ns9zpYRzj/xAQTGZoXqm/iqwp341oPnSZjCabqRAbsL0Xtta1hk8MKvGj9CToivqf\nFaC+wRKUm66X2uflLgh1HT4eVkVWLH7gWZ4RjxmnxbLIPzSRRnWkpN7xvpn0KYV4\nfbiF/V2GKN5bLpchqN3YaxIDOwKBgQDCpwFHg7GfIP8M5h648g/E6OURFH0ZbKVi\n2vuz872i1caPkRhYoSiGBzv/OUMqT34AOH0emk1X9G82Jc+FwQqXqvIaHg8fntoq\nQpuiP9Jinirf2bgmE9Nptqy/3UapK8LreblLVv7uBgs3IwUwe+iwD93WEZlDCgKj\n+Z1e9WwX5QKBgAh8wPvTw7UMJQghXocPYu5W/eOII265sdGUXwgbjMg25vhaAcIW\niQ2rnDOuwDA4bnV/jVKD+32VIB6xvSZohhko5C48fqKxV7JFvYPLih9SWGIaYtzI\nAy/eF7U9uLHZz3z5Dk0Y+FxaNSoAtkoHUf+Zvv/iYh1E7+QQm+oefhspAoGAMevz\nAAxeeZlU0FIUfwpV0QKJ/R9sFiEvKXNQKo7Qi/qXuipUPCbY5cblNEfTWf6ZKiVS\nsY6RV4VxIEoCNyOTO+KzxM8AwfNTsJL0p2AG7RPzmwWTnPBowCwBkhOGE80NaKcH\nRrNBHnqeVb29jvm4a68mDcjlrbPbiYJzQe9fkaECgYEA06/Zvu23bGIxlzv0R/Ql\nmJskkkkPXNEHfg/HG87H/G0RtjlK4aWi9fglyrXKufx+iX7g0Cx+4tsNhRrUW7zq\nCvC9LiosrFFx7H/f4rQfB1PSiHoTLmHR7m7lHXf9zjn6lk3qn0G2rA7N9yJvjtou\nucneHPzRyZ1osElJ/LWGeVE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-oy7uh@planeta-preescolar.iam.gserviceaccount.com",
+  "client_id": "111561144592781471804",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-oy7uh%40planeta-preescolar.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "hosting": {
+    "source": "hosting",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  }
+}

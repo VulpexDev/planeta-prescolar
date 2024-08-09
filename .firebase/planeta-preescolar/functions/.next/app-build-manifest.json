@@ -1,0 +1,95 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/chunks/app/_not-found/page-a3ba8e3eecd7c20b.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/css/d3df112486f97f47.css",
+      "static/css/921ac715acaa8639.css",
+      "static/css/dd22cde5d9493390.css",
+      "static/css/2a8faa44219d62e7.css",
+      "static/chunks/app/layout-48a8b44866853d16.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/chunks/138-b9d3b483249e4000.js",
+      "static/chunks/app/page-29119bf4d3ae9d14.js"
+    ],
+    "/stripe/page": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/css/2a8faa44219d62e7.css",
+      "static/chunks/app/stripe/page-8ad8c14e1477d5b0.js"
+    ],
+    "/hojastrabajo/page": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/chunks/138-b9d3b483249e4000.js",
+      "static/chunks/app/hojastrabajo/page-2656b668957a4761.js"
+    ],
+    "/hojastrabajo/layout": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/css/d3df112486f97f47.css",
+      "static/css/921ac715acaa8639.css",
+      "static/css/dd22cde5d9493390.css",
+      "static/css/2a8faa44219d62e7.css",
+      "static/chunks/app/hojastrabajo/layout-6c8d76e61f1cb77f.js"
+    ],
+    "/planeaciones/page": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/chunks/138-b9d3b483249e4000.js",
+      "static/chunks/app/planeaciones/page-69697d72f91cc020.js"
+    ],
+    "/planeaciones/layout": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/css/d3df112486f97f47.css",
+      "static/css/921ac715acaa8639.css",
+      "static/css/dd22cde5d9493390.css",
+      "static/css/2a8faa44219d62e7.css",
+      "static/chunks/app/planeaciones/layout-c068f5fc2417e19e.js"
+    ],
+    "/recomendaciones/page": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/chunks/138-b9d3b483249e4000.js",
+      "static/chunks/app/recomendaciones/page-62c84bbe156a7b5b.js"
+    ],
+    "/recomendaciones/layout": [
+      "static/chunks/webpack-61d77bed332a98a6.js",
+      "static/chunks/fd9d1056-ae4c3c68ce6313ea.js",
+      "static/chunks/23-3181c66313b3df45.js",
+      "static/chunks/main-app-cd1d2822e5e6932e.js",
+      "static/css/d3df112486f97f47.css",
+      "static/css/921ac715acaa8639.css",
+      "static/css/dd22cde5d9493390.css",
+      "static/css/2a8faa44219d62e7.css",
+      "static/chunks/app/recomendaciones/layout-f6eb4465193baf88.js"
+    ]
+  }
+}
